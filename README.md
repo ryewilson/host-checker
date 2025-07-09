@@ -29,7 +29,7 @@ In order to use the code in this repo you need:
 
 - An AWS account (free tier is fine)
 - [AWS SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/install-sam-cli.html) installed
-- Python 3.9 installed (must be 3.9 because SAM relies on this)
+- Python 3.13 installed
 
 
 ## How to re-deploy
